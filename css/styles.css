@@ -1,0 +1,98 @@
+body{
+    margin: 0px;
+
+}
+.profilepic{
+  border-radius: 100%;
+  height: 30%;
+  position: relative;
+  display: block;
+  margin-top: 0%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.topname{
+  margin-top: 1%;
+font-family: 'Comfortaa', cursive;
+font-size: 300%;
+  text-align: center;
+
+}
+.toptext{
+ font-family: 'Sacramento', cursive;
+ font-size: 200%;
+   text-align: center;
+
+
+}
+.top{
+    background-color: #A2D2FF;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding-top:5%;
+
+}
+.mountain{
+  width: 100%;
+
+}
+.middle-container{
+  padding-top: 2%;
+  background-color: white;
+  text-align: center;
+}
+.contact-me{
+    background-color: white;
+
+  text-align: center;
+}
+.bottom-container{
+
+    background-color: #A2D2FF;
+  text-align: center;
+  padding-bottom: 2%;
+}
+.prohello{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #A2D2FF
+}
+.propara{
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+}
+.rule{
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+  .btn {
+  background: #a2d2ff;
+  background-image: -webkit-linear-gradient(top, #a2d2ff, #2980b9);
+  background-image: -moz-linear-gradient(top, #a2d2ff, #2980b9);
+  background-image: -ms-linear-gradient(top, #a2d2ff, #2980b9);
+  background-image: -o-linear-gradient(top, #a2d2ff, #2980b9);
+  background-image: linear-gradient(to bottom, #a2d2ff, #2980b9);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #009dff;
+  background-image: -webkit-linear-gradient(top, #009dff, #005994);
+  background-image: -moz-linear-gradient(top, #009dff, #005994);
+  background-image: -ms-linear-gradient(top, #009dff, #005994);
+  background-image: -o-linear-gradient(top, #009dff, #005994);
+  background-image: linear-gradient(to bottom, #009dff, #005994);
+  text-decoration: none;
+}
+.footer-link{
+  color: #161E54;
+  font-size: 100%;
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+}
